@@ -1,3 +1,5 @@
+print("Hello Chief! How can I help you Today?")
+
 todos = []
 while True:
     user_action = input("Type add, show, edit or exit: ")
