@@ -1,3 +1,6 @@
 eat
 sleep
 code
+repeat
+not repeat
+not ing
